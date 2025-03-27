@@ -1,0 +1,18 @@
+#
+#
+#
+
+newmtl pDisc1 メッシュ_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+
+newmtl shark_head_003:transform1 メッシュ_shark_head_003:polySurface1
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ns 18.000000
+
